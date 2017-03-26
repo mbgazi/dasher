@@ -158,6 +158,7 @@ void option_version()
 {
   g_print("\n");
   // Note to translators: This is the version keyword showing for the command line option "--version"
-  g_print("%-30s %-30s %-30s\n", _("Version"), PACKAGE_VERSION, _("License GPL 2+"));
- 
+  g_print("%-30s %-30s \n", _("Version"), PACKAGE_VERSION);
+  // Note to translators: This is the license keyword showing for the command line option "--version"
+  g_print("%-30s %-30s\n", _("License"), "GPL 2+");
 }

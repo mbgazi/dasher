@@ -191,6 +191,7 @@ int main(int argc, char *argv[]) {
     option_help();
     return 0;
   }
+
   if (do_show_version)
   {
     option_version();
