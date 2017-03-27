@@ -1108,7 +1108,7 @@ msgstr "Versiyon"
 
 #: Src/Gtk2/DasherAppSettings.cpp:161
 msgid "License"
-msgstr ""
+msgstr "Lisans"
 
 #: Src/Gtk2/dasher_editor.cpp:812 Src/Gtk2/dasher_main.cpp:550
 #: Src/Gtk2/dasher_main.cpp:885
